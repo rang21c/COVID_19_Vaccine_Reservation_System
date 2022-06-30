@@ -46,11 +46,24 @@
 
 **- 마이페이지**
 
-<img src="https://user-images.githubusercontent.com/33370179/176657227-ce8c71e7-5bc9-4433-8946-faf279514212.png" width="450" height="300"/>
-<img src="https://user-images.githubusercontent.com/33370179/176657232-26bacca8-cf6e-4e98-8d36-51b906b4f5dc.png" width="450" height="300"/>
+<img src="https://user-images.githubusercontent.com/33370179/176657227-ce8c71e7-5bc9-4433-8946-faf279514212.png" width="450" height="300"/><img src="https://user-images.githubusercontent.com/33370179/176657232-26bacca8-cf6e-4e98-8d36-51b906b4f5dc.png" width="450" height="300"/>
 <img src="https://user-images.githubusercontent.com/33370179/176657505-eb90e429-e1a1-45a4-9e92-5bd777670b10.png" width="450" height="600"/>
 
 **- 병원예약**
 
 <img src="https://user-images.githubusercontent.com/33370179/176656552-2d46ff8a-16df-4bd8-8f14-93c063e753f9.png" width="500" height="800"/>
+
+![image](https://user-images.githubusercontent.com/33370179/176663445-986467a0-60d5-4c63-953b-6faa67780905.png)
+
+**- 환자정보**
+
+![image](https://user-images.githubusercontent.com/33370179/176663671-cfa0e9ad-e3d8-48c1-89e1-0849b87f6636.png)
+
+
+**- 접종통계**
+
+<img src="https://user-images.githubusercontent.com/33370179/176663805-8c947023-a440-4771-96ab-544be07a95a6.png" width="500" height="350"/><img src="https://user-images.githubusercontent.com/33370179/176663979-5367d283-201a-4611-815b-a09c6ce49473.png" width="500" height="350"/>
+<img src="https://user-images.githubusercontent.com/33370179/176663997-b07df559-3e95-40f1-b040-37f05de7845b.png" width="500" height="350"/><img src="https://user-images.githubusercontent.com/33370179/176664039-045a85c7-cbeb-40a6-8361-c0e8304e9936.png" width="500" height="350"/>
+<img src="https://user-images.githubusercontent.com/33370179/176664061-6c92d882-e54d-4fc9-aa3d-a47864e5b98f.png" width="500" height="350"/><img src="https://user-images.githubusercontent.com/33370179/176664067-ee76c313-adb1-4c0c-b292-1d36fcb443ef.png" width="500" height="350"/>
+<img src="https://user-images.githubusercontent.com/33370179/176664085-c116ee17-31fd-4a77-8f38-683af0c0f78b.png" width="500" height="350"/>
 
