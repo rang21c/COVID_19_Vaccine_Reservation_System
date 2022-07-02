@@ -5,7 +5,11 @@
 - 프로젝트 참여 인원 : 4명
 
 ## 개발 환경
-![image](https://user-images.githubusercontent.com/33370179/176653156-2e77064a-40cf-44b7-b6e4-3cf62a5222a7.png)
+
+- DB : MySQL
+- 실행환경 : Node.js
+- 언어 : Javascript
+- 라이브러리 : React.js 
 
 ## 주요 기능
 
